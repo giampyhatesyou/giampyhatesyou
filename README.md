@@ -12,4 +12,4 @@ AI Systems MSc at the University of Trento. I work on machine learning and NLP, 
 
 The pinned repos below may be the ones worth your time: ProtoCoCoOp (adapting CLIP without losing zero-shot), the NLU project (a language model plus intent and slot filling on ATIS), and OpenInterBias.
 
-Reach me at andrea.giampietro@proton.me or on LinkedIn.
+Reach me at andrea.giampietro68@gmail.com or on LinkedIn.
