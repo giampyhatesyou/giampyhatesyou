@@ -10,8 +10,6 @@ MSc in AI Systems from the University of Trento. I work on machine learning and 
 
 **Thesis:** [What are we really decoding in musical attention?](https://github.com/giampyhatesyou/EEG-Decoding-with-CLAP) It started as an attempt to improve an existing EEG-audio decoding architecture (Akama et al.) and turned into an investigation of what music attention-decoding models actually measure. Code and evidence are public.
 
-**Currently:** building OpenInterBias, on intersectional bias in text-to-image models.
-
 The pinned repos below may be the ones worth your time: the thesis, ProtoCoCoOp (adapting CLIP without losing zero-shot), the NLU project (a language model plus intent and slot filling on ATIS), and OpenInterBias.
 
 Reach me at andrea.giampietro@proton.me or on [LinkedIn](https://www.linkedin.com/in/andrea-giampietro).
